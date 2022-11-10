@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elleithy</h1>
-<h3 align="center">A passionate Frontend and Flutter from Egypt</h3>
+<h3 align="center">A passionate Frontend and Flutter Developer from Egypt</h3>
 
 - 🔭 I’m currently working on **Flutter mobile applications**
 
